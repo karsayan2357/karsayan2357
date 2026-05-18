@@ -1,6 +1,6 @@
 # Sayan Kar
 
-Second-year B.Stat. student at the Indian Statistical Institute, Kolkata.
+Second-year B.Stat. student at the [Indian Statistical Institute, Kolkata](https://www.isical.ac.in/index).
 
 ## Interests
 
