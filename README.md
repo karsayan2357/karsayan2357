@@ -4,8 +4,8 @@ Second-year B.Stat. student at the [Indian Statistical Institute, Kolkata](https
 
 ## Interests
 
-- Theoretical Computer Science  
-- Combinatorics  
+- Theoretical Computer Science
 - Algebra  
+- Combinatorics  
 
 Apart from academics, I also enjoy typesetting in LaTeX.
