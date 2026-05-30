@@ -10,4 +10,4 @@ Second-year B.Stat. student at the [Indian Statistical Institute, Kolkata](https
 
 Apart from academics, I also enjoy typesetting in $\LaTeX$.
 
-
+---
