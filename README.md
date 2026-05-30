@@ -8,4 +8,4 @@ Second-year B.Stat. student at the [Indian Statistical Institute, Kolkata](https
 - Algebra  
 - Combinatorics  
 
-Apart from academics, I also enjoy typesetting in $\mathrm{\LaTeX}$.
+Apart from academics, I also enjoy typesetting in $\LaTeX$.
